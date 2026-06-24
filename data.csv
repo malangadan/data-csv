@@ -1,4 +1,4 @@
 Info Section,Status,Date Start,Pre Weld,Tip Restore,Heat Treat,Weld Repair,Dim Matching,Cooling,Precool,Coating,Final Inspection,Contracted Due Date,Tracking Status
-Job-001,In Progress,2024-01-15,Complete,Complete,In Progress,Pending,Pending,Pending,Pending,Pending,Pending,2024-03-01,On Track
-Job-002,Pending,2024-01-20,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,2024-03-15,On Track
-Job-003,Complete,2024-01-10,Complete,Complete,Complete,Complete,Complete,Complete,Complete,Complete,Complete,2024-02-28,Closed
+Job-001,In Progress,2024-01-15,Complete,Complete,In Progress,Pending,Pending,Pending,Pending,Pending,Pending,"<span style='background-color:#FFD700;color:#000000'>2024-03-01</span>",On Track
+Job-002,Pending,2024-01-20,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,"<span style='background-color:#FFD700;color:#000000'>2024-03-15</span>",On Track
+Job-003,Complete,2024-01-10,Complete,Complete,Complete,Complete,Complete,Complete,Complete,Complete,Complete,"<span style='background-color:#FFD700;color:#000000'>2024-02-28</span>",Closed
